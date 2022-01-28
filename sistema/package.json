@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "mongodb": "^4.3.1",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "dev": "nodemon login.js"
+  }
+}
